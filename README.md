@@ -1,7 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+# 💫 Hi 👋, I'm Rupendra Satpute
+**A passionate Software Engineering || DevOps Engineer **
 
+Email Me 👉 ✉️ **rupendrasatpute33@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
+- 🔭 **I’m currently working on:** A Smart Food Ordering System (built with React.js, Next.js, Tailwind CSS, and MongoDB)
+- 🌱 **I’m currently learning:** Full-Stack Web Development and Cloud Deployment
+- 👯 **I’m looking to collaborate on:** Innovative web apps, React projects, and open-source contributions
+- 🤔 **I’m looking for help with:**Optimizing backend APIs and improving system performance
+- 💬 **Ask me about:** Web Development, Project Collaboration, and Tech Support
+- 📫 **How to reach me:** rupendrasatpute33@gmail.com
+- 😄 **Pronouns:** Imran Sir
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me back!
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rupendra_satpute) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rupendra-satpute) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rupendrasatpute33@gmail.com) 
 
